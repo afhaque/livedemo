@@ -2,7 +2,7 @@
 var http = require("http");
 
 // Lets define a port we want to listen to
-var PORT = 8080;
+var PORT = 80;
 
 // Tracker
 var userCount = 0;
